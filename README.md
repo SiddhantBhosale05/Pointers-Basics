@@ -2,7 +2,7 @@
 Experiment 9
 
 ## Aim 
-To use basic pointers.
+To study Basic of Pointers.
 
 ## Theory
 **Definition**
