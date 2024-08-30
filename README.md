@@ -102,7 +102,3 @@ int *ptr = &a;
    - Print the address of `a` directly using `cout`.
 
 4. **End**
-
-
-## Conclusion
-We leart the Basics of Pointers.
