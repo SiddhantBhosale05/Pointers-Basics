@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Pointer Basics to find the Address Of Data Types after Increment
+//Aim:Implementation of Pointer Basics to find the Address Of Data Types after Increment
 
 #include <iostream>
 using namespace std;
