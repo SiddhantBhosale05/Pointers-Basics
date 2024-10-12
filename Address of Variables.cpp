@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Pointer Basics to find the Address Of given Variables
+//Aim:Implementation of Pointer Basics to find the Address Of given Variables
 
 #include <iostream>
 using namespace std;
